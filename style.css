@@ -11,3 +11,6 @@ body{
 header{
     display: flex;
 }
+img{
+    width: 40%;
+}
