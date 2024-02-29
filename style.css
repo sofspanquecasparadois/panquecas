@@ -1,9 +1,13 @@
 :root{
     --cor-de-fundo: orange;
     --cor-do-texto: #ffffff;
+
+}
 body{
     background-color: var(--cor-de-fundo);
 }
-/* ssssssss */
 
+/* ssssssss */
+header{
+    display: flex;
 }
