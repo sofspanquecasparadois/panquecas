@@ -1,7 +1,7 @@
 :root{
     --cor-de-fundo: orange;
     --cor-do-texto: #ffffff;
---azul:#0000ff;
+--vermelho:#fc0000;
 }
 body{
     background-color: var(--cor-de-fundo);
@@ -19,5 +19,5 @@ width: 25%;
 }
 .apresentacao{
     display: flex;
-    background-color: #0000ff;
+    background-color: #fc0000;
 }
