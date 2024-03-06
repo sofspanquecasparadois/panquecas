@@ -20,5 +20,5 @@ width: 25%;
 .apresentacao{
     display: flex;
     background-color: #fc0000;
-    border: 30px solid var(--cor-do-texto);
+    border: 5px solid var(--cor-do-texto);
 }
