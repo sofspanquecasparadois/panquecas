@@ -21,4 +21,5 @@ width: 25%;
     display: flex;
     background-color: #fc0000;
     border: 5px solid var(--cor-do-texto);
+    margin: 20px;
 }
