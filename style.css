@@ -4,9 +4,12 @@
 --vermelho:#fc0000;
 }
 body{
-    font-family: "Libre Baskerville", serif;
-  font-weight: 400;
+    font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
   font-style: normal;
+  font-variation-settings:
+    "slnt" 0;
     background-color: var(--cor-de-fundo);
 }
 
