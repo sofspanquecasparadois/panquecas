@@ -28,7 +28,7 @@ width: 25%;
     border: 5px solid var(--cor-do-texto);
     margin: 20px;
 }
-.equipe{
+#equipe{
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
     text-align: center;
