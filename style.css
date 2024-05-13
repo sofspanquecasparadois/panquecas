@@ -46,12 +46,12 @@ width: 25%;
     width: 40%;
 }
 .divisao-equipe{
-    border: 3px solid black;
+    border: 3px solid rgb(255, 0, 0);
     margin: 10px;
 }
 footer{
     background-color: #4390C8;
-    color: #000000;
+    color: #ffffff;
 }
 header a{
     color: #ffffff;
