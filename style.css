@@ -32,7 +32,7 @@ width: 25%;
 }
 .apresentacao{
     display: flex;
-    background-color: #13e0e0;
+    background-color: #4390C8;
     border: 5px solid var(--cor-do-texto);
     margin: 20px;
 }
